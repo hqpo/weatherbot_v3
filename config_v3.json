@@ -1,0 +1,16 @@
+{
+  "starting_cash": 10000.0,
+  "max_trade_dollars": 20.0,
+  "max_event_exposure_pct": 0.03,
+  "max_weather_exposure_pct": 0.12,
+  "kelly_fraction": 0.15,
+  "min_net_edge": 0.06,
+  "probability_haircut": 0.03,
+  "max_spread": 0.05,
+  "min_volume": 500,
+  "min_hours": 1.0,
+  "max_hours": 72.0,
+  "scan_interval": 1800,
+  "request_timeout": 12,
+  "paper_trade": true
+}
